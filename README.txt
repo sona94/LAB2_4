@@ -1,0 +1,1 @@
+﻿This is the different data types of c# for begginers.
